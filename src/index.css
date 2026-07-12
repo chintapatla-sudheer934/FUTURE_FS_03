@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Playfair+Display:wght@500;600;700;800&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  * { -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; }
+  html { scroll-behavior: smooth; }
+  body { @apply bg-cream-50 text-coffee-900 dark:bg-coffee-950 dark:text-cream-100 font-sans; }
+  ::selection { @apply bg-accent-500/20; }
+}
+
+@layer components {
+  .glass-card {
+    @apply bg-white/70 dark:bg-coffee-900/60 backdrop-blur-xl border border-white/40 dark:border-white/10 rounded-2xl shadow-lg;
+  }
+  .btn {
+    @apply inline-flex items-center justify-center gap-2 px-6 py-3 rounded-full font-semibold transition-all duration-300 active:scale-95 disabled:opacity-50;
+  }
+  .btn-primary {
+    @apply btn text-white bg-gradient-to-r from-accent-500 to-accent-600 hover:from-accent-600 hover:to-accent-500 shadow-lg shadow-accent-500/25 hover:shadow-xl hover:shadow-accent-500/30;
+  }
+  .btn-secondary {
+    @apply btn text-coffee-800 dark:text-cream-100 bg-white/80 dark:bg-coffee-800/80 border border-coffee-200 dark:border-coffee-700 hover:bg-coffee-50 dark:hover:bg-coffee-700 backdrop-blur;
+  }
+  .btn-ghost {
+    @apply btn text-coffee-700 dark:text-cream-200 hover:bg-coffee-100 dark:hover:bg-coffee-800;
+  }
+  .card-hover {
+    @apply transition-all duration-300 hover:-translate-y-1.5 hover:shadow-2xl;
+  }
+  .section-pad { @apply px-4 sm:px-6 lg:px-8; }
+  .container-max { @apply max-w-7xl mx-auto; }
+}
+
+@layer utilities {
+  .scrollbar-hide::-webkit-scrollbar { display: none; }
+  .scrollbar-hide { -ms-overflow-style: none; scrollbar-width: none; }
+  .text-balance { text-wrap: balance; }
+}
