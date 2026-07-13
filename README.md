@@ -60,13 +60,13 @@ Local-Business-Website/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/your-repository-name.git
+https://github.com/chintapatla-sudheer934/FUTURE_FS_03.git
 ```
 
 ### 2. Navigate to the project folder
 
 ```bash
-cd your-repository-name
+cd FUTURE_FS_03
 ```
 
 ### 3. Install Dependencies
@@ -101,6 +101,8 @@ http://localhost:5173
 Add screenshots of your website after deployment.
 
 - Home Page
+  <img width="1881" height="901" alt="Screenshot 2026-07-13 171638" src="https://github.com/user-attachments/assets/d1140c04-d13c-4c7a-9a77-1017ae3503e7" />
+
 - About Section
 - Services/Menu Page
 - Gallery
@@ -118,7 +120,7 @@ https://your-live-demo-link.com
 ## GitHub Repository
 
 ```
-https://github.com/your-username/your-repository-name
+https://github.com/chintapatla-sudheer934/FUTURE_FS_03.git
 ```
 
 ## Business Pitch
@@ -129,9 +131,9 @@ This website was created to help a local business strengthen its online presence
 
 **Chinthapatla Varsha**
 
-- GitHub: https://github.com/VarshaChinthapatla
-- LinkedIn: Add your LinkedIn Profile URL
-- Email: Add your Email Address
+- GitHub: https://github.com/chintapatla-sudheer934/FUTURE_FS_03.git
+- LinkedIn: https://www.linkedin.com/in/chintapatla-sudheer-naidu-b04353349/
+- Email: chintapatlasudheernaidu@gmail.com
 
 ## License
 
