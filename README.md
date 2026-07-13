@@ -101,13 +101,28 @@ http://localhost:5173
 Add screenshots of your website after deployment.
 
 - Home Page
-  <img width="1881" height="901" alt="Screenshot 2026-07-13 171638" src="https://github.com/user-attachments/assets/d1140c04-d13c-4c7a-9a77-1017ae3503e7" />
+  <img width="1887" height="901" alt="Screenshot 2026-07-13 171532" src="https://github.com/user-attachments/assets/29186d43-20b7-4472-96df-d8c78540ae5a" />
+
 
 - About Section
+<img width="1900" height="887" alt="Screenshot 2026-07-13 171542" src="https://github.com/user-attachments/assets/de7b93d3-4123-47a4-b0bb-bbf135f650f8" />
+
+
 - Services/Menu Page
+  <img width="1812" height="912" alt="Screenshot 2026-07-13 171600" src="https://github.com/user-attachments/assets/ca3c814a-304e-4db3-9e34-360881bae766" />
+
+
 - Gallery
+ <img width="1828" height="905" alt="Screenshot 2026-07-13 171609" src="https://github.com/user-attachments/assets/a51c6032-efed-4c6c-a97f-c1d0dff21a2a" />
+<img width="1877" height="886" alt="Screenshot 2026-07-13 171620" src="https://github.com/user-attachments/assets/6057052a-58ca-49d5-8a7a-5f63c4512343" />
+
+
 - Testimonials
+- <img width="1890" height="906" alt="Screenshot 2026-07-13 171627" src="https://github.com/user-attachments/assets/10ab05aa-dcf9-449c-a1bf-1a9e19460edb" />
+
 - Contact Page
+- <img width="1881" height="901" alt="Screenshot 2026-07-13 171638" src="https://github.com/user-attachments/assets/7ffe17cc-5971-4698-acba-8e3c4768e6ad" />
+
 
 ## Live Demo
 
