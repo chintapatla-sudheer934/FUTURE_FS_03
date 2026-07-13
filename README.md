@@ -60,7 +60,7 @@ Local-Business-Website/
 ### 1. Clone the repository
 
 ```bash
-https://github.com/chintapatla-sudheer934/FUTURE_FS_03.git
+git clone ttps://github.com/chintapatla-sudheer934/FUTURE_FS_03.git
 ```
 
 ### 2. Navigate to the project folder
@@ -144,7 +144,7 @@ This website was created to help a local business strengthen its online presence
 
 ## Author
 
-**Chinthapatla Varsha**
+**Chintapatla Sudheer**
 
 - GitHub: https://github.com/chintapatla-sudheer934/FUTURE_FS_03.git
 - LinkedIn: https://www.linkedin.com/in/chintapatla-sudheer-naidu-b04353349/
