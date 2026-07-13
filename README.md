@@ -126,7 +126,7 @@ Add screenshots of your website after deployment.
 
 ## Live Demo
 
-Add your deployed website link here.
+ deployed website link here.
 
 ```
 https://brew-heaven-cafe-ten.vercel.app/
